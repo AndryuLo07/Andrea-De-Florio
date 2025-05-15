@@ -39,7 +39,7 @@ public class De_Florio_QuizMusicale extends JFrame {
     private ButtonGroup[] gruppiRisposte = new ButtonGroup[10];
 
     public De_Florio_QuizMusicale() {
-        setTitle("🎶 Quiz Musicale Interattivo");
+        setTitle("-Quiz Musicale Interattivo-");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setSize(800, 900);
         setLocationRelativeTo(null);
